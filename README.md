@@ -9,7 +9,7 @@ I'm a Frontend Developer at Spowse . I'm passionate about sharing knowledge, doc
 
 - 😊 Pronouns: He/him
 - 💼 Job interests: Software Engineer, FrontEnd Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing lesleymashaya@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/uc?export=download&id=1zvx1BXylttfObJDZ0JejOLaHUNVqMOQ4) and contact me by emailing lesleymashaya@gmail.com.
 
 ---
 
